@@ -1,3 +1,3 @@
 FROM debian:stable-slim
 
-RUN apt update && apt install -y build-essential cmake
+RUN apt-get update && apt-get install -y build-essential cmake
