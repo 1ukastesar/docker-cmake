@@ -1,1 +1,3 @@
+#!/usr/bin/env bash
+
 docker build -t 1ukastesar/cmake . && docker push 1ukastesar/cmake
